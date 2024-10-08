@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "YukeProject",
+			"Path": "..\\Source\\YukeProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "YukeProjectEditor",
+			"Path": "..\\Source\\YukeProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
