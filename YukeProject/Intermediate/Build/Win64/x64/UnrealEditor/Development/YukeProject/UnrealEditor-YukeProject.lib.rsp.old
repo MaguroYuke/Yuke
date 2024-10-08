@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-YukeProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\SotuseiProject\YukeProjectFile\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\GitHub\SotuseiProject\YukeProjectFile\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.cpp.obj"
+"D:\GitHub\SotuseiProject\YukeProjectFile\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\Default.rc2.res"
+/OUT:"D:\GitHub\SotuseiProject\YukeProjectFile\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\UnrealEditor-YukeProject.lib"
