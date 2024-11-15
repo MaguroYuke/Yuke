@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Sotusei\\Project\\YukeProject\\Source\\YukeProject\\YukeProject.Build.cs",
-		"C:\\Sotusei\\Project\\YukeProject\\Source\\YukeProject.Target.cs",
-		"C:\\Sotusei\\Project\\YukeProject\\Source\\YukeProjectEditor.Target.cs"
+		"C:\\Users\\A22045\\Documents\\A3\\SEISAKU\\SotuseiProject\\Yuke\\YukeProject\\Source\\YukeProject\\YukeProject.Build.cs",
+		"C:\\Users\\A22045\\Documents\\A3\\SEISAKU\\SotuseiProject\\Yuke\\YukeProject\\Source\\YukeProject.Target.cs",
+		"C:\\Users\\A22045\\Documents\\A3\\SEISAKU\\SotuseiProject\\Yuke\\YukeProject\\Source\\YukeProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
