@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\a22045\\documents\\a3\\seisaku\\sotuseiproject\\yuke\\yukeproject\\source\\yukeproject\\yukeproject.cpp",
+        "Source": "c:\\users\\s22-14\\documents\\yuke\\project\\yukeproject\\source\\yukeproject\\yukeproject.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\a22045\\documents\\a3\\seisaku\\sotuseiproject\\yuke\\yukeproject\\intermediate\\build\\win64\\x64\\yukeprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\s22-14\\documents\\yuke\\project\\yukeproject\\intermediate\\build\\win64\\x64\\yukeprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\a22045\\documents\\a3\\seisaku\\sotuseiproject\\yuke\\yukeproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yukeproject\\definitions.yukeproject.h",
-            "c:\\users\\a22045\\documents\\a3\\seisaku\\sotuseiproject\\yuke\\yukeproject\\source\\yukeproject\\yukeproject.h"
+            "c:\\users\\s22-14\\documents\\yuke\\project\\yukeproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yukeproject\\definitions.yukeproject.h",
+            "c:\\users\\s22-14\\documents\\yuke\\project\\yukeproject\\source\\yukeproject\\yukeproject.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
