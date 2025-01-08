@@ -1131,3 +1131,4 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.01.08-01.40.46:435][  0]LogPakFile: Initializing PakPlatformFile
 [2025.01.08-01.40.46:435][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
 [2025.01.08-01.40.46:529][  0]LogAssetRegistry: Display: Asset registry cache written as 21.2 MiB to ../../../../../../Users/A22045/Documents/sotsusei/YukeProject/Intermediate/CachedAssetRegistry_*.bin
+[2025.01.08-01.42.38:146][  0]LogDerivedDataCache: C:/Users/A22045/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1396 files in 2291 folders with total size 176 MiB.
