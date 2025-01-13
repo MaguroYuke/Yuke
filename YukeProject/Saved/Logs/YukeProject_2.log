@@ -1201,3 +1201,1450 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.13-06.47.01:074][641]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 62692 triangles, 5
 [2025.01.13-06.47.07:547][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2025.01.13-06.47.07:763][695]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-06.48.12:126][502]LogSlate: Window 'ビューの変更' being destroyed
+[2025.01.13-06.48.12:137][502]LogSlate: Window 'ビューの変更' being destroyed
+[2025.01.13-06.48.29:808][165]LogSlate: Window 'リビジョンコントロールにログイン' being destroyed
+[2025.01.13-06.48.35:221][596]LogSlateStyle: Warning: 「CoreStyle」スタイルからのリソースが存在しません。'ブラシ 'ContentBrowser.ListViewFolderIcon.Base' が見つかりません'
+[2025.01.13-06.48.35:221][596]LogSlateStyle: Warning: 「CoreStyle」スタイルからのリソースが存在しません。'ブラシ 'ContentBrowser.ListViewFolderIcon.Mask' が見つかりません'
+[2025.01.13-06.48.36:754][751]LogDerivedDataCache: C:/Users/Nakajin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.108 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 605 files in 1095 folders with total size 44 MiB.
+[2025.01.13-06.48.41:970][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-06.49.30:186][941]LogSlate: Window '新規レベル' being destroyed
+[2025.01.13-06.49.30:206][941]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.13-06.49.30:206][941]LightingResults: New page: ライティングのビルド
+[2025.01.13-06.49.30:206][941]LoadErrors: New page: マップをロード中: Template_Default.umap
+[2025.01.13-06.49.30:246][941]LogWorld: UWorld::CleanupWorld for SampleMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-06.49.30:246][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-06.49.30:246][941]MapCheck: New page: マップをチェック
+[2025.01.13-06.49.30:246][941]LightingResults: New page: <何も選択されていません>
+[2025.01.13-06.49.30:251][941]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.13-06.49.30:261][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.13-06.49.30:265][941]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2025.01.13-06.49.30:266][941]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-06.49.30:266][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.13-06.49.30:266][941]LogAIModule: Creating AISystem for world Untitled_1
+[2025.01.13-06.49.30:280][941]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.13-06.49.30:285][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.13-06.49.30:286][941]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.13-06.49.30:286][941]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.176ミリ秒かかりました。
+[2025.01.13-06.49.55:792][383]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2025.01.13-06.49.55:902][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.13-06.49.55:913][383]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.006367 seconds
+[2025.01.13-06.49.55:925][383]LogSavePackage: Moving output files for package: /Game/MyContents/Maps/DebugMap/egurimap
+[2025.01.13-06.49.55:925][383]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimapCD78ABD043FCF96E8E98D5805030AD15.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap'
+[2025.01.13-06.49.56:103][383]LogFileHelpers: Saving map 'egurimap' took 0.290
+[2025.01.13-06.49.56:104][383]Cmd: MAP LOAD FILE="../../../../../../Sotsusei/YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.13-06.49.56:104][383]LightingResults: New page: ライティングのビルド
+[2025.01.13-06.49.56:104][383]LoadErrors: New page: マップをロード中: egurimap.umap
+[2025.01.13-06.49.56:152][383]LogWorld: UWorld::CleanupWorld for egurimap, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-06.49.56:152][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-06.49.56:153][383]MapCheck: New page: マップをチェック
+[2025.01.13-06.49.56:153][383]LightingResults: New page: <何も選択されていません>
+[2025.01.13-06.49.56:156][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.13-06.49.56:158][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.01.13-06.49.56:161][383]LogAudio: Display: Audio Device (ID: 1) registered with world 'egurimap'.
+[2025.01.13-06.49.56:161][383]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-06.49.56:161][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.13-06.49.56:161][383]LogAIModule: Creating AISystem for world egurimap
+[2025.01.13-06.49.56:172][383]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.13-06.49.56:176][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.13-06.49.56:182][383]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.13-06.49.56:182][383]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.117ミリ秒かかりました。
+[2025.01.13-06.49.56:185][383]AssetCheck: New page: アセット保存：egurimap
+[2025.01.13-06.49.56:185][383]LogContentValidation: Display: /Script/Engine.World /Game/MyContents/Maps/DebugMap/egurimap.egurimap を検証しています
+[2025.01.13-06.49.56:798][442]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>], HttpStatus=[401], ErrorCode=[errors.com.epicgames.common.oauth.invalid_token], NumericErrorCode=[1014], ErrorMessage=[The OAuthToken you are using is not valid], CorrId=[EOS-XDWR8eSCVU2kXCgNI71qbw-fRfCFiNDeEuaQDjYwNWYHw]
+[2025.01.13-06.49.56:805][443]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing verification. Error: EOS_Auth_InvalidToken UserId: bd1...849
+[2025.01.13-06.49.56:810][443]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[bd1...849]
+[2025.01.13-06.50.09:563][889]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-06.50.30:100][113]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/BluePrints/gomi/5picking.5picking_C
+[2025.01.13-06.50.30:100][113]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/BluePrints/gomi/5picking.5picking_C
+[2025.01.13-06.50.30:110][113]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/BluePrints/gomi/5picking.5picking as actor: 5picking_C /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.5picking_C_0
+[2025.01.13-06.50.30:120][113]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/BluePrints/gomi/5picking.5picking as actor: 5picking_C /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.5picking_C_0
+[2025.01.13-06.50.30:144][113]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.01.13-06.50.31:862][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/BluePrints/gomi/5picking.5picking_C
+[2025.01.13-06.50.31:862][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/BluePrints/gomi/5picking.5picking_C
+[2025.01.13-06.50.31:877][275]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/BluePrints/gomi/5picking.5picking as actor: 5picking_C /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.5picking_C_1
+[2025.01.13-06.50.31:887][275]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/BluePrints/gomi/5picking.5picking as actor: 5picking_C /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.5picking_C_1
+[2025.01.13-06.51.28:192][599]LogSlate: Took 0.010090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.01.13-06.51.49:306][889]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MyContents/LevelSequences/Picking/Picking_Blue1.Picking_Blue1
+[2025.01.13-06.51.49:491][889]LogViewport: Scene viewport resized to 1526x578, mode Windowed.
+[2025.01.13-06.51.49:516][889]LogSlate: Took 0.006243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.01.13-06.52.08:591][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 323.835754
+[2025.01.13-06.52.08:798][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-06.52.08:798][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 324.034180, Update Interval: 309.708557
+[2025.01.13-06.52.25:619][621]LogViewport: Scene viewport resized to 1526x892, mode Windowed.
+[2025.01.13-06.52.29:242][ 26]Cmd: DELETE
+[2025.01.13-06.52.29:246][ 26]Cmd: ACTOR DELETE
+[2025.01.13-06.52.41:561][ 26]LogSlate: Window 'メッセージ' being destroyed
+[2025.01.13-06.52.41:571][ 26]Message dialog closed, result: Cancel, title: メッセージ, text: アクタ 5picking は他のアクタ / オブジェクトで参照されています。
+このアクタを削除してよろしいですか？削除すると、以下の参照が解除されます。
+
+参照の一覧：
+
+(Soft) Object /Game/MyContents/LevelSequences/Picking/Picking_Blue1.Picking_Blue1
+[2025.01.13-06.52.41:590][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.01.13-06.52.41:592][ 26]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.01.13-06.52.44:741][348]Cmd: DELETE
+[2025.01.13-06.52.44:742][348]Cmd: ACTOR DELETE
+[2025.01.13-06.52.45:806][348]LogSlate: Window 'メッセージ' being destroyed
+[2025.01.13-06.52.45:817][348]Message dialog closed, result: Yes, title: メッセージ, text: アクタ 5picking は他のアクタ / オブジェクトで参照されています。
+このアクタを削除してよろしいですか？削除すると、以下の参照が解除されます。
+
+参照の一覧：
+
+(Soft) Object /Game/MyContents/LevelSequences/Picking/Picking_Blue1.Picking_Blue1
+[2025.01.13-06.52.45:818][348]LogEditorActor: Deleted Actor: 5picking_C
+[2025.01.13-06.52.45:826][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.13-06.52.45:827][348]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.01.13-06.53.36:078][294]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MyContents/LevelSequences/Picking/Picking_Blue1.Picking_Blue1
+[2025.01.13-06.53.36:162][294]LogViewport: Scene viewport resized to 1526x578, mode Windowed.
+[2025.01.13-06.53.46:724][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-06.53.46:780][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.13-06.53.46:787][503]LogSavePackage: Moving output files for package: /Game/MyContents/Maps/DebugMap/egurimap
+[2025.01.13-06.53.46:788][503]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimap0F1A140E4E58115FB9086295E282BAB8.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap'
+[2025.01.13-06.53.46:794][503]LogFileHelpers: Saving map 'egurimap' took 0.041
+[2025.01.13-06.53.46:808][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms
+[2025.01.13-06.53.46:811][503]AssetCheck: New page: アセット保存：egurimap
+[2025.01.13-06.53.46:811][503]LogContentValidation: Display: /Script/Engine.World /Game/MyContents/Maps/DebugMap/egurimap.egurimap を検証しています
+[2025.01.13-06.53.54:688][295]Cmd: EDIT COPY
+[2025.01.13-06.53.55:842][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-06.53.55:894][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.01.13-06.53.55:901][419]LogSavePackage: Moving output files for package: /Game/MyContents/Maps/DebugMap/egurimap
+[2025.01.13-06.53.55:901][419]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimap7C4CE9254C033C624AD82595F0D133C1.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap'
+[2025.01.13-06.53.55:909][419]LogFileHelpers: Saving map 'egurimap' took 0.040
+[2025.01.13-06.53.55:921][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 162 ms)
+[2025.01.13-06.53.55:923][419]AssetCheck: New page: アセット保存：egurimap
+[2025.01.13-06.53.55:923][419]LogContentValidation: Display: /Script/Engine.World /Game/MyContents/Maps/DebugMap/egurimap.egurimap を検証しています
+[2025.01.13-06.53.57:735][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-06.53.57:771][610]LogSavePackage: Moving output files for package: /Game/MyContents/LevelSequences/Picking/Picking_Blue1
+[2025.01.13-06.53.57:772][610]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/Picking_Blue188975739408B591F396715BD4DEDD1A8.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/LevelSequences/Picking/Picking_Blue1.uasset'
+[2025.01.13-06.53.57:781][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 208 ms)
+[2025.01.13-06.53.57:783][610]AssetCheck: New page: アセット保存：Picking_Blue1
+[2025.01.13-06.53.57:783][610]LogContentValidation: Display: /Script/LevelSequence.LevelSequence /Game/MyContents/LevelSequences/Picking/Picking_Blue1.Picking_Blue1 を検証しています
+[2025.01.13-06.54.48:464][671]LogStaticMesh: Display: スタティックメッシュ 4dodai をビルド中...
+[2025.01.13-06.54.48:464][671]LogStaticMesh: Display: スタティックメッシュ 4idou をビルド中...
+[2025.01.13-06.54.48:464][671]LogStaticMesh: Display: スタティックメッシュ 4kaiten をビルド中...
+[2025.01.13-06.54.48:464][671]LogStaticMesh: Display: スタティックメッシュ 4kaitenneji をビルド中...
+[2025.01.13-06.54.48:464][671]LogStaticMesh: Display: スタティックメッシュ 4kanban をビルド中...
+[2025.01.13-06.54.48:464][671]LogStaticMesh: Display: スタティックメッシュ 4oshidashi をビルド中...
+[2025.01.13-06.54.48:464][671]LogStaticMesh: Display: スタティックメッシュ 4stanp をビルド中...
+[2025.01.13-06.54.48:466][671]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/PlayBlack/haikei.haikei (BGRA8、376x115 x1x1x1) (推定必須メモリ:1.327091 MB)、EncodeSpeed:Fast
+[2025.01.13-06.54.48:471][671]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/SuperToaki/4kaitenneji.4kaitenneji
+[2025.01.13-06.54.48:474][671]LogStaticMesh: Display: スタティックメッシュ 4table をビルド中...
+[2025.01.13-06.54.48:482][671]LogStaticMesh: Built static mesh [0.02s] /Game/FBX/SuperToaki/4stanp.4stanp
+[2025.01.13-06.54.48:501][671]LogStaticMesh: Built static mesh [0.04s] /Game/FBX/SuperToaki/4kanban.4kanban
+[2025.01.13-06.54.48:513][671]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-06.54.48:520][671]LogStaticMesh: Built static mesh [0.06s] /Game/FBX/SuperToaki/4oshidashi.4oshidashi
+[2025.01.13-06.54.48:535][671]LogStaticMesh: Built static mesh [0.06s] /Game/FBX/SuperToaki/4table.4table
+[2025.01.13-06.54.48:604][671]LogStaticMesh: Built static mesh [0.14s] /Game/FBX/SuperToaki/4kaiten.4kaiten
+[2025.01.13-06.54.48:680][672]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/BluePrints/gomi/SuperToaki.SuperToaki_C
+[2025.01.13-06.54.48:680][672]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/BluePrints/gomi/SuperToaki.SuperToaki_C
+[2025.01.13-06.54.48:695][672]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/BluePrints/gomi/SuperToaki.SuperToaki as actor: SuperToaki_C /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_0
+[2025.01.13-06.54.48:711][672]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/BluePrints/gomi/SuperToaki.SuperToaki as actor: SuperToaki_C /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_0
+[2025.01.13-06.54.48:844][672]LogStaticMesh: Built static mesh [0.38s] /Game/FBX/SuperToaki/4idou.4idou
+[2025.01.13-06.54.49:645][673]LogShaderCompilers: Display: ================================================
+[2025.01.13-06.54.49:645][673]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.13-06.54.49:645][673]LogShaderCompilers: Display: Total job queries 262, among them cache hits 114 (43.51%)
+[2025.01.13-06.54.49:645][673]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2025.01.13-06.54.49:645][673]LogShaderCompilers: Display: RAM used: 81.75 KiB of 1.60 GiB budget. Usage: 0.00%
+[2025.01.13-06.54.49:645][673]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.13-06.54.49:645][673]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.01.13-06.54.49:645][673]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Job execution time: average 5.60 s, max 8.57 s
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Job life time (pending + execution): average 5.66 s, max 8.62
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Shader code size: average 33.89 KiB, min 29.711 KiB, max 35.891 KiB
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.62 s
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Average processing rate: 0.46 jobs/sec
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Total thread time: 5.623 s
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Total thread preprocess time: 0.371 s
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Percentage time preprocessing: 6.60%
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Effective parallelization: 0.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.37 sec, max 2.37 sec, min 2.37 sec)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 2.04 sec, max 2.04 sec, min 2.04 sec)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 42.06% of total time (compiled    1 times, average 2.37 sec, max 2.37 sec, min 2.37 sec)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display:                                                 FLumenCardVS - 36.30% of total time (compiled    1 times, average 2.04 sec, max 2.04 sec, min 2.04 sec)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.30% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.34% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.01.13-06.54.49:646][673]LogShaderCompilers: Display: ================================================
+[2025.01.13-06.54.51:053][724]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 34% occupied, 8397 triangles, 4idou
+[2025.01.13-06.54.52:624][741]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 3826 triangles, 4kaiten
+[2025.01.13-06.54.53:215][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/BluePrints/gomi/SuperToaki.SuperToaki_C
+[2025.01.13-06.54.53:215][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyContents/BluePrints/gomi/SuperToaki.SuperToaki_C
+[2025.01.13-06.54.53:236][787]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/BluePrints/gomi/SuperToaki.SuperToaki as actor: SuperToaki_C /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1
+[2025.01.13-06.54.53:256][787]LogActorFactory: Actor Factory spawned Blueprint /Game/MyContents/BluePrints/gomi/SuperToaki.SuperToaki as actor: SuperToaki_C /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1
+[2025.01.13-06.54.53:485][788]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x84 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 55% occupied, 1781 triangles, 4table
+[2025.01.13-06.54.54:456][857]LogStaticMesh: Built static mesh [5.99s] /Game/FBX/SuperToaki/4dodai.4dodai
+[2025.01.13-06.54.57:407][999]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 185276 triangles, 4dodai
+[2025.01.13-06.55.26:462][914]LogViewport: Scene viewport resized to 1526x892, mode Windowed.
+[2025.01.13-06.55.34:199][670]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MyContents/LevelSequences/4Move.4Move
+[2025.01.13-06.55.34:271][670]LogViewport: Scene viewport resized to 1526x578, mode Windowed.
+[2025.01.13-06.57.22:219][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 637.459961
+[2025.01.13-06.57.23:218][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-06.57.23:218][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 638.126587, Update Interval: 353.391510
+[2025.01.13-06.58.01:222][385]Cmd: TRANSACTION UNDO
+[2025.01.13-06.58.01:222][385]LogEditorTransaction: Undo 要素の移動
+[2025.01.13-06.58.52:946][230]Cmd: TRANSACTION UNDO
+[2025.01.13-06.58.52:946][230]LogEditorTransaction: Undo 要素をクリックしています
+[2025.01.13-07.03.20:313][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 995.552368
+[2025.01.13-07.03.20:553][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-07.03.20:553][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 995.780701, Update Interval: 359.948730
+[2025.01.13-07.03.33:457][299]Cmd: TRANSACTION UNDO
+[2025.01.13-07.03.33:457][299]LogEditorTransaction: Undo 伸縮
+[2025.01.13-07.03.33:850][312]Cmd: TRANSACTION UNDO
+[2025.01.13-07.03.33:850][312]LogEditorTransaction: Undo キーやセクションを移動
+[2025.01.13-07.03.34:389][349]Cmd: TRANSACTION UNDO
+[2025.01.13-07.03.34:389][349]LogEditorTransaction: Undo キーやセクションを移動
+[2025.01.13-07.03.50:423][743]LogViewport: Scene viewport resized to 1026x121, mode Windowed.
+[2025.01.13-07.03.52:168][743]LogViewport: Scene viewport resized to 753x574, mode Windowed.
+[2025.01.13-07.04.20:456][905]LogViewport: Scene viewport resized to 1526x578, mode Windowed.
+[2025.01.13-07.04.57:559][441]Cmd: TRANSACTION UNDO
+[2025.01.13-07.04.57:559][441]LogEditorTransaction: Undo ノードを削除
+[2025.01.13-07.05.08:089][200]Cmd: TRANSACTION UNDO
+[2025.01.13-07.05.08:089][200]LogEditorTransaction: Undo ノードを削除
+[2025.01.13-07.05.37:960][670]Cmd: TRANSACTION UNDO
+[2025.01.13-07.05.37:960][670]LogEditorTransaction: Undo ノードを削除
+[2025.01.13-07.05.49:921][698]LogViewport: Scene viewport resized to 1526x579, mode Windowed.
+[2025.01.13-07.05.49:938][699]LogViewport: Scene viewport resized to 1526x577, mode Windowed.
+[2025.01.13-07.05.49:993][700]LogViewport: Scene viewport resized to 1526x557, mode Windowed.
+[2025.01.13-07.05.50:017][701]LogViewport: Scene viewport resized to 1526x546, mode Windowed.
+[2025.01.13-07.05.50:048][702]LogViewport: Scene viewport resized to 1526x535, mode Windowed.
+[2025.01.13-07.05.50:075][703]LogViewport: Scene viewport resized to 1526x526, mode Windowed.
+[2025.01.13-07.05.50:106][704]LogViewport: Scene viewport resized to 1526x517, mode Windowed.
+[2025.01.13-07.05.50:136][705]LogViewport: Scene viewport resized to 1526x512, mode Windowed.
+[2025.01.13-07.05.50:161][706]LogViewport: Scene viewport resized to 1526x506, mode Windowed.
+[2025.01.13-07.05.50:197][707]LogViewport: Scene viewport resized to 1526x500, mode Windowed.
+[2025.01.13-07.05.50:227][708]LogViewport: Scene viewport resized to 1526x493, mode Windowed.
+[2025.01.13-07.05.50:258][709]LogViewport: Scene viewport resized to 1526x486, mode Windowed.
+[2025.01.13-07.05.50:288][710]LogViewport: Scene viewport resized to 1526x478, mode Windowed.
+[2025.01.13-07.05.50:315][711]LogViewport: Scene viewport resized to 1526x469, mode Windowed.
+[2025.01.13-07.05.50:345][712]LogViewport: Scene viewport resized to 1526x459, mode Windowed.
+[2025.01.13-07.05.50:373][713]LogViewport: Scene viewport resized to 1526x446, mode Windowed.
+[2025.01.13-07.05.50:399][714]LogViewport: Scene viewport resized to 1526x433, mode Windowed.
+[2025.01.13-07.05.50:431][715]LogViewport: Scene viewport resized to 1526x418, mode Windowed.
+[2025.01.13-07.05.50:461][716]LogViewport: Scene viewport resized to 1526x404, mode Windowed.
+[2025.01.13-07.05.50:489][717]LogViewport: Scene viewport resized to 1526x388, mode Windowed.
+[2025.01.13-07.05.50:516][718]LogViewport: Scene viewport resized to 1526x377, mode Windowed.
+[2025.01.13-07.05.50:543][719]LogViewport: Scene viewport resized to 1526x367, mode Windowed.
+[2025.01.13-07.05.50:572][720]LogViewport: Scene viewport resized to 1526x351, mode Windowed.
+[2025.01.13-07.05.50:599][721]LogViewport: Scene viewport resized to 1526x338, mode Windowed.
+[2025.01.13-07.05.50:629][722]LogViewport: Scene viewport resized to 1526x323, mode Windowed.
+[2025.01.13-07.05.50:654][723]LogViewport: Scene viewport resized to 1526x314, mode Windowed.
+[2025.01.13-07.05.50:683][724]LogViewport: Scene viewport resized to 1526x312, mode Windowed.
+[2025.01.13-07.05.58:246][402]LogViewport: Scene viewport resized to 1526x313, mode Windowed.
+[2025.01.13-07.05.58:268][403]LogViewport: Scene viewport resized to 1526x314, mode Windowed.
+[2025.01.13-07.05.58:332][404]LogViewport: Scene viewport resized to 1526x319, mode Windowed.
+[2025.01.13-07.05.58:358][405]LogViewport: Scene viewport resized to 1526x323, mode Windowed.
+[2025.01.13-07.05.58:385][406]LogViewport: Scene viewport resized to 1526x327, mode Windowed.
+[2025.01.13-07.05.58:416][407]LogViewport: Scene viewport resized to 1526x328, mode Windowed.
+[2025.01.13-07.05.58:443][408]LogViewport: Scene viewport resized to 1526x331, mode Windowed.
+[2025.01.13-07.05.58:467][409]LogViewport: Scene viewport resized to 1526x332, mode Windowed.
+[2025.01.13-07.05.58:505][411]LogViewport: Scene viewport resized to 1526x333, mode Windowed.
+[2025.01.13-07.05.58:542][414]LogViewport: Scene viewport resized to 1526x335, mode Windowed.
+[2025.01.13-07.05.58:573][416]LogViewport: Scene viewport resized to 1526x337, mode Windowed.
+[2025.01.13-07.05.58:601][417]LogViewport: Scene viewport resized to 1526x340, mode Windowed.
+[2025.01.13-07.05.58:629][418]LogViewport: Scene viewport resized to 1526x343, mode Windowed.
+[2025.01.13-07.05.58:655][419]LogViewport: Scene viewport resized to 1526x344, mode Windowed.
+[2025.01.13-07.05.58:684][420]LogViewport: Scene viewport resized to 1526x346, mode Windowed.
+[2025.01.13-07.05.58:709][421]LogViewport: Scene viewport resized to 1526x347, mode Windowed.
+[2025.01.13-07.05.58:743][423]LogViewport: Scene viewport resized to 1526x348, mode Windowed.
+[2025.01.13-07.05.58:780][426]LogViewport: Scene viewport resized to 1526x352, mode Windowed.
+[2025.01.13-07.05.58:801][427]LogViewport: Scene viewport resized to 1526x356, mode Windowed.
+[2025.01.13-07.06.02:587][747]Cmd: DELETE
+[2025.01.13-07.06.02:587][747]Cmd: ACTOR DELETE
+[2025.01.13-07.06.02:588][747]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.02:588][747]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:291][820]Cmd: DELETE
+[2025.01.13-07.06.03:291][820]Cmd: ACTOR DELETE
+[2025.01.13-07.06.03:291][820]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:291][820]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:553][846]Cmd: DELETE
+[2025.01.13-07.06.03:553][846]Cmd: ACTOR DELETE
+[2025.01.13-07.06.03:553][846]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:553][846]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:679][859]Cmd: DELETE
+[2025.01.13-07.06.03:679][859]Cmd: ACTOR DELETE
+[2025.01.13-07.06.03:679][859]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:679][859]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:819][871]Cmd: DELETE
+[2025.01.13-07.06.03:819][871]Cmd: ACTOR DELETE
+[2025.01.13-07.06.03:819][871]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:819][871]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:947][884]Cmd: DELETE
+[2025.01.13-07.06.03:947][884]Cmd: ACTOR DELETE
+[2025.01.13-07.06.03:948][884]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.03:948][884]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.04:063][896]Cmd: DELETE
+[2025.01.13-07.06.04:063][896]Cmd: ACTOR DELETE
+[2025.01.13-07.06.04:063][896]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.04:063][896]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.04:189][909]Cmd: DELETE
+[2025.01.13-07.06.04:189][909]Cmd: ACTOR DELETE
+[2025.01.13-07.06.04:189][909]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.04:189][909]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.04:308][921]Cmd: DELETE
+[2025.01.13-07.06.04:308][921]Cmd: ACTOR DELETE
+[2025.01.13-07.06.04:308][921]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.04:308][921]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.04:418][932]Cmd: DELETE
+[2025.01.13-07.06.04:418][932]Cmd: ACTOR DELETE
+[2025.01.13-07.06.04:418][932]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.04:418][932]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4stanp: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.06.06:785][161]Cmd: DELETE
+[2025.01.13-07.06.06:785][161]Cmd: ACTOR DELETE
+[2025.01.13-07.06.06:786][161]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4table: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.07.01:896][642]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.01:896][642]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.07.02:107][648]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.02:107][648]LogEditorTransaction: Undo 選択なし
+[2025.01.13-07.07.02:287][651]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.02:287][651]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.07.02:425][657]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.02:425][657]LogEditorTransaction: Undo 選択なし
+[2025.01.13-07.07.02:581][661]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.02:581][661]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.07.02:740][672]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.02:740][672]LogEditorTransaction: Undo 選択なし
+[2025.01.13-07.07.02:886][677]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.02:886][677]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.07.03:030][688]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.03:030][688]LogEditorTransaction: Undo 選択なし
+[2025.01.13-07.07.03:174][691]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.03:175][691]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.07.03:319][701]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.03:319][701]LogEditorTransaction: Undo 選択なし
+[2025.01.13-07.07.03:494][702]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.03:494][702]LogEditorTransaction: Undo キーを削除
+[2025.01.13-07.07.03:677][703]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.03:677][703]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.07.03:773][704]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.03:773][704]LogEditorTransaction: Undo キーを削除
+[2025.01.13-07.07.03:921][705]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.03:921][705]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.07.04:096][712]Cmd: TRANSACTION UNDO
+[2025.01.13-07.07.04:096][712]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.07.13:452][104]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2025.01.13-07.07.13:468][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.13-07.07.13:468][104]PIE: New page: PIEセッション: egurimap (2025/01/14 1:07:13)
+[2025.01.13-07.07.13:469][104]LogPlayLevel: Display: Creating online subsystem for client :Context_6
+[2025.01.13-07.07.13:472][104]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.01.13-07.07.14:169][105]LogStaticMesh: Display: スタティックメッシュ 2 をビルド中...
+[2025.01.13-07.07.14:193][105]LogStaticMesh: Display: スタティックメッシュ 1arm をビルド中...
+[2025.01.13-07.07.14:214][105]LogStaticMesh: Display: スタティックメッシュ 1dodai をビルド中...
+[2025.01.13-07.07.14:214][105]LogStaticMesh: Display: スタティックメッシュ 1kaiten をビルド中...
+[2025.01.13-07.07.14:214][105]LogStaticMesh: Display: スタティックメッシュ 1stanp をビルド中...
+[2025.01.13-07.07.14:231][105]LogStaticMesh: Display: スタティックメッシュ blue をビルド中...
+[2025.01.13-07.07.14:235][105]LogSkeletalMesh: Building Skeletal Mesh Saikyou_Beruto...
+[2025.01.13-07.07.14:237][105]LogStaticMesh: Built static mesh [0.01s] /Game/MyContents/BluePrints/eguriBP/blue.blue
+[2025.01.13-07.07.14:241][105]LogStaticMesh: Display: スタティックメッシュ red をビルド中...
+[2025.01.13-07.07.14:246][105]LogStaticMesh: Built static mesh [0.01s] /Game/MyContents/BluePrints/eguriBP/red.red
+[2025.01.13-07.07.14:301][105]LogStaticMesh: Display: スタティックメッシュ 3dodai をビルド中...
+[2025.01.13-07.07.14:324][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/LogTextures/ビックリマーク_通常.ビックリマーク_通常 (BGRA8、358x357 x1x1x1) (推定必須メモリ:3.800316 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:332][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/BluePrints/Objects/NewUIver2/SaveData/LOG.LOG (BGRA8、560x995 x1x1x1) (推定必須メモリ:16.358372 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:343][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/BluePrints/Objects/NewUIver2/SaveData/SaveData.SaveData (BGRA8、560x995 x1x1x1) (推定必須メモリ:16.358372 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:350][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/BluePrints/Objects/NewUIver2/SaveData/SaveGray.SaveGray (TFO_AutoDXT、480x80 x1x1x1) (推定必須メモリ:6.117188 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:354][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/BluePrints/Objects/NewUIver2/SaveData/SaveWhite.SaveWhite (TFO_AutoDXT、480x80 x1x1x1) (推定必須メモリ:6.007324 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:356][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/LogTextures/ビックリマーク_注意.ビックリマーク_注意 (BGRA8、357x325 x1x1x1) (推定必須メモリ:3.455769 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:359][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/LogTextures/ビックリマーク_警告.ビックリマーク_警告 (BGRA8、357x351 x1x1x1) (推定必須メモリ:3.72723 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:360][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/×.× (BGRA8、48x49 x1x1x1) (推定必須メモリ:0.131287 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:405][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/再生早送りボタン.再生早送りボタン (BGRA8、72x74 x1x1x1) (推定必須メモリ:0.218323 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:405][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/再生ボタン.再生ボタン (BGRA8、79x81 x1x1x1) (推定必須メモリ:0.249645 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:406][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/再生停止ボタン.再生停止ボタン (BGRA8、81x81 x1x1x1) (推定必須メモリ:0.254383 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:407][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/Play/Play.Play (BGRA8、97x97 x1x1x1) (推定必須メモリ:0.337669 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:408][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/Play/Stop.Stop (BGRA8、97x97 x1x1x1) (推定必須メモリ:0.337669 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:409][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/Play/SpeedUp.SpeedUp (BGRA8、97x97 x1x1x1) (推定必須メモリ:0.337669 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:411][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/PlayBlack/PlayBlack.PlayBlack (BGRA8、97x97 x1x1x1) (推定必須メモリ:0.337669 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:412][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/PlayBlack/SpeedUpBlack.SpeedUpBlack (BGRA8、97x97 x1x1x1) (推定必須メモリ:0.337669 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:413][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/PlayBlack/StopBlack.StopBlack (BGRA8、97x97 x1x1x1) (推定必須メモリ:0.337669 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:414][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/4.4 (BGRA8、254x252 x1x1x1) (推定必須メモリ:1.934479 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:417][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/Hensyu_UI/オブジェクトを置く場所.オブジェクトを置く場所 (BGRA8、270x270 x1x1x1) (推定必須メモリ:2.194534 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:418][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/L90.L90 (BGRA8、172x173 x1x1x1) (推定必須メモリ:0.932732 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:419][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/Play/L90.L90 (BGRA8、172x173 x1x1x1) (推定必須メモリ:0.932732 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:421][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/Play/R90.R90 (BGRA8、176x177 x1x1x1) (推定必須メモリ:0.973572 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:423][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/SelectObject/1.1 (BGRA8、254x252 x1x1x1) (推定必須メモリ:1.934479 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:427][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/SelectObject/2.2 (BGRA8、254x252 x1x1x1) (推定必須メモリ:1.934479 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:429][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/SelectObject/3.3 (BGRA8、254x252 x1x1x1) (推定必須メモリ:1.934479 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:433][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/SelectObject/5.5 (BGRA8、254x252 x1x1x1) (推定必須メモリ:1.934479 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:435][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/SelectObject/kuria.kuria (BGRA8、156x79 x1x1x1) (推定必須メモリ:0.422928 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:441][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/SelectObject/ObjSelectHaikei.ObjSelectHaikei (BGRA8、1071x490 x1x1x1) (推定必須メモリ:15.410515 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:449][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/buttonui/シミュレーション灰色.シミュレーション灰色 (BGRA8、414x72 x1x1x1) (推定必須メモリ:0.934265 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:450][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/buttonui/編集　灰色.編集　灰色 (BGRA8、414x72 x1x1x1) (推定必須メモリ:0.934265 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:452][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/Settei.Settei (TFO_AutoDXT、256x256 x1x1x1) (推定必須メモリ:10.395709 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:457][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/buttonui/保存2.保存2 (BGRA8、413x72 x1x1x1) (推定必須メモリ:0.932159 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:459][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/PlayBlack/レイヤー_6.レイヤー_6 (BGRA8、413x72 x1x1x1) (推定必須メモリ:0.932159 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:461][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/ゲームコントローラー２.ゲームコントローラー２ (BGRA8、413x72 x1x1x1) (推定必須メモリ:0.932159 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:462][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/パラメーター表示２.パラメーター表示２ (BGRA8、413x72 x1x1x1) (推定必須メモリ:0.932159 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:464][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/ヘルプ２.ヘルプ２ (BGRA8、413x72 x1x1x1) (推定必須メモリ:0.932159 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:467][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/マイセット２.マイセット２ (BGRA8、413x72 x1x1x1) (推定必須メモリ:0.932159 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:468][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/ログ表示２.ログ表示２ (BGRA8、413x72 x1x1x1) (推定必須メモリ:0.932159 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:470][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/NewUI/設定２.設定２ (BGRA8、413x72 x1x1x1) (推定必須メモリ:0.932159 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:476][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/メニューバック背景.メニューバック背景 (BGRA8、500x1017 x1x1x1) (推定必須メモリ:14.934097 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:484][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/編集モード.編集モード (BGRA8、269x100 x1x1x1) (推定必須メモリ:0.849205 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:485][105]LogTexture: Display: テクスチャをビルドしています:/Game/MyContents/Textures/設定2.設定2 (BGRA8、79x79 x1x1x1) (推定必須メモリ:0.245018 MB)、EncodeSpeed:Fast
+[2025.01.13-07.07.14:503][105]LogPlayLevel: Creating play world package: /Game/MyContents/Maps/DebugMap/UEDPIE_0_egurimap
+[2025.01.13-07.07.14:510][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006697s)
+[2025.01.13-07.07.14:510][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContents/Maps/DebugMap/egurimap.egurimap to /Game/MyContents/Maps/DebugMap/UEDPIE_0_egurimap.egurimap (0.006792s)
+[2025.01.13-07.07.14:525][105]LogStaticMesh: Built static mesh [0.31s] /Game/FBX/SuperClane/1stanp.1stanp
+[2025.01.13-07.07.14:528][105]LogSkeletalMesh: Display: スキン処理されたアセットの準備ができるのを待ってます。0/1 (Saikyou_Beruto)…
+[2025.01.13-07.07.14:617][105]LogStaticMesh: Display: スタティックメッシュ 3oshidashi をビルド中...
+[2025.01.13-07.07.14:620][105]LogSkeletalMesh: Built Skeletal Mesh [0.38s] /Game/FBX/３beruto/Saikyou_Beruto.Saikyou_Beruto
+[2025.01.13-07.07.14:630][105]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FBX/３beruto/Saikyou_Beruto_Animation.Saikyou_Beruto_Animation
+[2025.01.13-07.07.14:640][105]LogStaticMesh: Built static mesh [0.02s] /Game/FBX/SuperSorting/3oshidashi.3oshidashi
+[2025.01.13-07.07.14:676][105]LogAnimationCompression: Display: Storing compressed animation data for /Game/FBX/３beruto/Saikyou_Beruto_Animation.Saikyou_Beruto_Animation, at AnimationSequence/90cbaf94d32dddd8127421f243ae121573c1a0d7
+[2025.01.13-07.07.14:709][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.13-07.07.14:716][105]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.07.14:716][105]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.13-07.07.14:716][105]LogAIModule: Creating AISystem for world egurimap
+[2025.01.13-07.07.14:717][105]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2025.01.13-07.07.14:717][105]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.01.13-07.07.14:717][105]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.13-07.07.14:717][105]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.13-07.07.14:717][105]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.13-07.07.14:717][105]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.13-07.07.14:717][105]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.13-07.07.14:717][105]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.13-07.07.14:717][105]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.13-07.07.14:717][105]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.13-07.07.14:718][105]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.13-07.07.14:718][105]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.13-07.07.14:718][105]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.13-07.07.14:720][105]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.13-07.07.14:748][105]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (HyperX Cloud Stinger Core (Wireless) – PS)
+[2025.01.13-07.07.14:748][105]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.13-07.07.14:748][105]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.13-07.07.14:748][105]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.13-07.07.14:750][105]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.01.13-07.07.14:750][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.01.13-07.07.14:753][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.01.13-07.07.14:753][105]LogInit: FAudioDevice initialized with ID 2.
+[2025.01.13-07.07.14:753][105]LogAudio: Display: Audio Device (ID: 2) registered with world 'egurimap'.
+[2025.01.13-07.07.14:753][105]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.01.13-07.07.14:753][105]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.13-07.07.14:801][105]LogLoad: Game class is 'BPGM_MyGameMode_C'
+[2025.01.13-07.07.14:806][105]LogWorld: Bringing World /Game/MyContents/Maps/DebugMap/UEDPIE_0_egurimap.egurimap up for play (max tick rate 0) at 2025.01.13-16.07.14
+[2025.01.13-07.07.14:807][105]LogWorld: Bringing up level for play took: 0.005810
+[2025.01.13-07.07.14:834][105]LogBlueprintUserMessages: [SuperToaki_C_1] animation
+[2025.01.13-07.07.14:838][105]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.13-07.07.14:838][105]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.01.13-07.07.14:838][105]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.01.13-07.07.14:838][105]PIE: サーバーにログインしました
+[2025.01.13-07.07.14:839][105]PIE: PIE合計開始時間 1.375 秒。
+[2025.01.13-07.07.14:841][105]LogStaticMesh: Built static mesh [0.65s] /Game/FBX/SuperClane/1arm.1arm
+[2025.01.13-07.07.14:850][105]LogInput: Error: Duplicate mapping of key MouseWheelAxis for axis None
+[2025.01.13-07.07.15:453][137]LogStaticMesh: Built static mesh [1.24s] /Game/FBX/SuperClane/1kaiten.1kaiten
+[2025.01.13-07.07.15:473][139]LogStaticMesh: Built static mesh [1.26s] /Game/FBX/SuperClane/1dodai.1dodai
+[2025.01.13-07.07.16:430][216]LogStaticMesh: Built static mesh [2.26s] /Game/FBX/2nanikore/2.2
+[2025.01.13-07.07.16:459][218]LogMeshUtilities: Finished distance field build in 1.6s - 126x98x126 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 41% occupied, 6296 triangles, 1stanp
+[2025.01.13-07.07.16:492][221]LogChaos: Warning: Perf/memory warning: request for Material Array on single-material ShapeInstance
+[2025.01.13-07.07.17:356][296]LogStaticMesh: Built static mesh [3.06s] /Game/FBX/SuperSorting/3dodai.3dodai
+[2025.01.13-07.07.19:380][419]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 60% occupied, 9811 triangles, 1arm
+[2025.01.13-07.07.20:151][467]LogChaos: Warning: Perf/memory warning: request for Material Array on single-material ShapeInstance
+[2025.01.13-07.07.20:750][504]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 14551 triangles, 1kaiten
+[2025.01.13-07.07.22:496][611]LogChaos: Warning: Perf/memory warning: request for Material Array on single-material ShapeInstance
+[2025.01.13-07.07.23:707][690]LogMeshUtilities: Finished distance field build in 3.0s - 126x126x112 sparse distance field, 2.3Mb total, 0.0Mb always loaded, 78% occupied, 42180 triangles, 1dodai
+[2025.01.13-07.07.27:291][988]LogBlueprintUserMessages: [SuperToaki_C_1] animation
+[2025.01.13-07.07.27:291][988]LogChaos: Warning: Perf/memory warning: request for Material Array on single-material ShapeInstance
+[2025.01.13-07.07.27:291][988]LogChaos: Warning: Perf/memory warning: request for Material Array on single-material ShapeInstance
+[2025.01.13-07.07.27:291][988]LogChaos: Warning: Perf/memory warning: request for Material Array on single-material ShapeInstance
+[2025.01.13-07.07.28:475][ 84]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 32970 triangles, 2
+[2025.01.13-07.07.29:291][151]LogChaos: Warning: Perf/memory warning: request for Material Array on single-material ShapeInstance
+[2025.01.13-07.07.29:600][175]LogMeshUtilities: Finished distance field build in 5.9s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 68% occupied, 90074 triangles, 3dodai
+[2025.01.13-07.07.30:298][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.13-07.07.30:298][240]LogWorld: BeginTearingDown for /Game/MyContents/Maps/DebugMap/UEDPIE_0_egurimap
+[2025.01.13-07.07.30:298][240]LogWorld: UWorld::CleanupWorld for egurimap, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.07.30:299][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-07.07.30:302][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.13-07.07.30:305][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-07.07.30:310][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.13-07.07.30:310][240]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.13-07.07.30:310][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.13-07.07.30:313][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.13-07.07.30:319][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.13-07.07.30:357][241]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.01.13-07.08.01:910][960]Cmd: DELETE
+[2025.01.13-07.08.01:910][960]Cmd: ACTOR DELETE
+[2025.01.13-07.08.01:910][960]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4kaiten: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.08.03:837][146]Cmd: DELETE
+[2025.01.13-07.08.03:837][146]Cmd: ACTOR DELETE
+[2025.01.13-07.08.03:837][146]LogEditorActor: Cannot delete component StaticMeshComponent /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.SuperToaki_C_1.4kaiten: 非インスタンス化したコンポーネントまたはシーン ルートを削除できません。
+[2025.01.13-07.08.07:079][451]Cmd: TRANSACTION UNDO
+[2025.01.13-07.08.07:079][451]LogEditorTransaction: Undo 伸縮
+[2025.01.13-07.08.49:187][703]LogViewport: Scene viewport resized to 1526x366, mode Windowed.
+[2025.01.13-07.08.49:225][704]LogViewport: Scene viewport resized to 1526x382, mode Windowed.
+[2025.01.13-07.08.49:270][705]LogViewport: Scene viewport resized to 1526x393, mode Windowed.
+[2025.01.13-07.08.49:315][706]LogViewport: Scene viewport resized to 1526x411, mode Windowed.
+[2025.01.13-07.08.49:357][707]LogViewport: Scene viewport resized to 1526x423, mode Windowed.
+[2025.01.13-07.08.49:399][708]LogViewport: Scene viewport resized to 1526x429, mode Windowed.
+[2025.01.13-07.08.49:441][709]LogViewport: Scene viewport resized to 1526x445, mode Windowed.
+[2025.01.13-07.08.49:486][710]LogViewport: Scene viewport resized to 1526x461, mode Windowed.
+[2025.01.13-07.08.49:527][711]LogViewport: Scene viewport resized to 1526x468, mode Windowed.
+[2025.01.13-07.08.49:568][712]LogViewport: Scene viewport resized to 1526x482, mode Windowed.
+[2025.01.13-07.08.49:610][713]LogViewport: Scene viewport resized to 1526x499, mode Windowed.
+[2025.01.13-07.08.49:655][714]LogViewport: Scene viewport resized to 1526x512, mode Windowed.
+[2025.01.13-07.08.49:699][715]LogViewport: Scene viewport resized to 1526x532, mode Windowed.
+[2025.01.13-07.08.49:740][716]LogViewport: Scene viewport resized to 1526x547, mode Windowed.
+[2025.01.13-07.08.49:783][717]LogViewport: Scene viewport resized to 1526x557, mode Windowed.
+[2025.01.13-07.08.49:827][718]LogViewport: Scene viewport resized to 1526x571, mode Windowed.
+[2025.01.13-07.08.49:868][719]LogViewport: Scene viewport resized to 1526x579, mode Windowed.
+[2025.01.13-07.08.49:910][720]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2025.01.13-07.08.49:953][721]LogViewport: Scene viewport resized to 1526x587, mode Windowed.
+[2025.01.13-07.08.50:491][752]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2025.01.13-07.08.50:529][753]LogViewport: Scene viewport resized to 1526x584, mode Windowed.
+[2025.01.13-07.08.50:570][754]LogViewport: Scene viewport resized to 1526x577, mode Windowed.
+[2025.01.13-07.08.50:614][755]LogViewport: Scene viewport resized to 1526x574, mode Windowed.
+[2025.01.13-07.08.50:655][756]LogViewport: Scene viewport resized to 1526x571, mode Windowed.
+[2025.01.13-07.08.50:694][757]LogViewport: Scene viewport resized to 1526x570, mode Windowed.
+[2025.01.13-07.09.34:359][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1369.599854
+[2025.01.13-07.09.34:623][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-07.09.34:623][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1369.846680, Update Interval: 354.279602
+[2025.01.13-07.10.33:988][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.01.13-07.10.34:001][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto1
+[2025.01.13-07.10.34:001][180]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimap_Auto16A961EEB4D45746B3ADAB093EBE7E9AD.tmp' to '../../../../../../Sotsusei/YukeProject/Saved/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto1.umap'
+[2025.01.13-07.10.34:003][180]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Sotsusei/YukeProject/Saved/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto1.umap is in the /Temp path, will not scan.
+[2025.01.13-07.10.34:003][180]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto1 is in the /Temp path, will not scan.
+[2025.01.13-07.10.34:003][180]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto1 is in the /Temp path, will not scan.
+[2025.01.13-07.10.34:003][180]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContents/Maps/DebugMap/egurimap' took 0.019
+[2025.01.13-07.10.34:003][180]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2025.01.13-07.10.34:003][180]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContents/LevelSequences/4Move] ([2] browsable assets)...
+[2025.01.13-07.10.34:003][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContents/LevelSequences/4Move]
+[2025.01.13-07.10.34:013][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContents/LevelSequences/4Move_Auto1
+[2025.01.13-07.10.34:013][180]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/4Move_Auto15A9C3EED4B9877656B55D8BAEA3B7D07.tmp' to '../../../../../../Sotsusei/YukeProject/Saved/Autosaves/Game/MyContents/LevelSequences/4Move_Auto1.uasset'
+[2025.01.13-07.10.34:014][180]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.01.13-07.11.36:685][130]Cmd: TRANSACTION UNDO
+[2025.01.13-07.11.36:685][130]LogEditorTransaction: Undo 要素の移動
+[2025.01.13-07.16.00:055][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1755.302979
+[2025.01.13-07.16.00:277][773]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-07.16.00:277][773]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1755.514648, Update Interval: 332.216553
+[2025.01.13-07.16.05:497][167]LogViewport: Scene viewport resized to 1026x119, mode Windowed.
+[2025.01.13-07.16.06:291][167]LogViewport: Scene viewport resized to 753x566, mode Windowed.
+[2025.01.13-07.16.53:601][888]LogViewport: Scene viewport resized to 1526x570, mode Windowed.
+[2025.01.13-07.22.15:921][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: ================================================
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Total job queries 702, among them cache hits 554 (78.92%)
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: RAM used: 81.75 KiB of 1.60 GiB budget. Usage: 0.00%
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Job execution time: average 5.60 s, max 8.57 s
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Job life time (pending + execution): average 5.66 s, max 8.62
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Shader code size: average 33.89 KiB, min 29.711 KiB, max 35.891 KiB
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.62 s
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Average processing rate: 0.46 jobs/sec
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Total thread time: 5.623 s
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Total thread preprocess time: 0.371 s
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Percentage time preprocessing: 6.60%
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Effective parallelization: 0.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.13-07.22.16:001][258]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.37 sec, max 2.37 sec, min 2.37 sec)
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 2.04 sec, max 2.04 sec, min 2.04 sec)
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 42.06% of total time (compiled    1 times, average 2.37 sec, max 2.37 sec, min 2.37 sec)
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display:                                                 FLumenCardVS - 36.30% of total time (compiled    1 times, average 2.04 sec, max 2.04 sec, min 2.04 sec)
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.30% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.34% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.01.13-07.22.16:003][258]LogShaderCompilers: Display: ================================================
+[2025.01.13-07.22.16:506][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.22.16:964][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.22.21:701][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2136.932617
+[2025.01.13-07.22.21:948][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-07.22.21:948][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2137.154053, Update Interval: 357.696472
+[2025.01.13-07.22.31:782][897]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.22.31:896][899]LogBlueprintUserMessages: [BPW_ActorCount_C_0] ここに近いターゲットに並び替える
+[2025.01.13-07.22.31:985][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.22.32:040][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.22.32:121][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.22.32:197][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.13-07.22.32:535][919]LogBlueprintUserMessages: [BPW_ActorCount_C_0] ここに近いターゲットに並び替える
+[2025.01.13-07.23.05:184][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MyContents/BluePrints/eguriBP/blue.blue
+[2025.01.13-07.23.05:187][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MyContents/BluePrints/eguriBP/blue.blue
+[2025.01.13-07.23.05:188][244]LogActorFactory: Actor Factory spawned StaticMesh /Game/MyContents/BluePrints/eguriBP/blue.blue as actor: StaticMeshActor /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.StaticMeshActor_0
+[2025.01.13-07.23.07:823][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MyContents/BluePrints/eguriBP/blue.blue
+[2025.01.13-07.23.07:823][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MyContents/BluePrints/eguriBP/blue.blue
+[2025.01.13-07.23.07:824][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/MyContents/BluePrints/eguriBP/blue.blue as actor: StaticMeshActor /Game/MyContents/Maps/DebugMap/egurimap.egurimap:PersistentLevel.StaticMeshActor_2
+[2025.01.13-07.25.57:394][727]Cmd: EDIT COPY
+[2025.01.13-07.25.57:622][754]Cmd: EDIT PASTE
+[2025.01.13-07.27.41:783][445]Cmd: TRANSACTION UNDO
+[2025.01.13-07.27.41:783][445]LogEditorTransaction: Undo 要素の回転
+[2025.01.13-07.27.43:074][486]Cmd: TRANSACTION UNDO
+[2025.01.13-07.27.43:074][486]LogEditorTransaction: Undo 要素の回転
+[2025.01.13-07.27.56:068][126]Cmd: TRANSACTION UNDO
+[2025.01.13-07.27.56:068][126]LogEditorTransaction: Undo 現在の時間にキーを追加
+[2025.01.13-07.27.56:553][138]Cmd: TRANSACTION UNDO
+[2025.01.13-07.27.56:553][138]LogEditorTransaction: Undo 要素の回転
+[2025.01.13-07.28.58:265][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2533.485840
+[2025.01.13-07.28.58:500][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-07.28.58:500][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2533.709717, Update Interval: 333.892029
+[2025.01.13-07.29.02:916][960]Cmd: TRANSACTION UNDO
+[2025.01.13-07.29.02:916][960]LogEditorTransaction: Undo キー値を設定
+[2025.01.13-07.29.03:851][ 17]Cmd: TRANSACTION UNDO
+[2025.01.13-07.29.03:852][ 17]LogEditorTransaction: Undo 現在の時間にキーを追加
+[2025.01.13-07.32.58:504][207]Cmd: TRANSACTION UNDO
+[2025.01.13-07.32.58:504][207]LogEditorTransaction: Undo 要素の移動
+[2025.01.13-07.33.05:022][533]Cmd: TRANSACTION UNDO
+[2025.01.13-07.33.05:023][533]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.35.11:774][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.13-07.35.11:792][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto2
+[2025.01.13-07.35.11:792][337]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimap_Auto21292A8B443DFF51D1C5167BD9E4676F5.tmp' to '../../../../../../Sotsusei/YukeProject/Saved/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto2.umap'
+[2025.01.13-07.35.11:793][337]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Sotsusei/YukeProject/Saved/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto2.umap is in the /Temp path, will not scan.
+[2025.01.13-07.35.11:794][337]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto2 is in the /Temp path, will not scan.
+[2025.01.13-07.35.11:794][337]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/MyContents/Maps/DebugMap/egurimap_Auto2 is in the /Temp path, will not scan.
+[2025.01.13-07.35.11:794][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContents/Maps/DebugMap/egurimap' took 0.028
+[2025.01.13-07.35.11:794][337]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2025.01.13-07.35.11:794][337]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContents/LevelSequences/4Move] ([2] browsable assets)...
+[2025.01.13-07.35.11:794][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContents/LevelSequences/4Move]
+[2025.01.13-07.35.11:803][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContents/LevelSequences/4Move_Auto2
+[2025.01.13-07.35.11:803][337]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/4Move_Auto264D9816D45382DF2C9724C8479FED914.tmp' to '../../../../../../Sotsusei/YukeProject/Saved/Autosaves/Game/MyContents/LevelSequences/4Move_Auto2.uasset'
+[2025.01.13-07.35.11:803][337]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.01.13-07.35.29:403][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2924.632324
+[2025.01.13-07.35.30:404][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-07.35.30:404][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2925.298828, Update Interval: 336.492188
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.33:291][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.36:247][219]LogSlate: Window 'コンテンツを保存' being destroyed
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.48:906][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.39.51:554][995]LogSlate: Window 'コンテンツを保存' being destroyed
+[2025.01.13-07.39.51:690][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-07.39.51:744][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.13-07.39.51:758][995]LogSavePackage: Moving output files for package: /Game/MyContents/Maps/DebugMap/egurimap
+[2025.01.13-07.39.51:758][995]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimap9894809642C85D86BE63DC9AED89D1A2.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap'
+[2025.01.13-07.39.51:765][995]LogFileHelpers: Saving map 'egurimap' took 0.049
+[2025.01.13-07.39.51:773][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 291 ms)
+[2025.01.13-07.40.02:104][995]LogSlate: Window 'ファイルをサブミット' being destroyed
+[2025.01.13-07.40.02:615][995]LogSourceControl: commit successful: [eguriguri eab8070] アニメーションの更新
+[2025.01.13-07.40.02:719][995]SourceControl: [eguriguri eab8070] アニメーションの更新
+[2025.01.13-07.40.02:719][995]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2025.01.13-07.40.02:719][995]SourceControl:  create mode 100644 YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap
+[2025.01.13-07.40.02:735][995]SourceControl: [eguriguri eab8070] アニメーションの更新 をコミットしました。
+[2025.01.13-07.40.02:755][996]AssetCheck: New page: アセット保存：egurimap
+[2025.01.13-07.40.02:756][996]LogContentValidation: Display: /Script/Engine.World /Game/MyContents/Maps/DebugMap/egurimap.egurimap を検証しています
+[2025.01.13-07.40.24:897][314]Cmd: TRANSACTION UNDO
+[2025.01.13-07.40.24:897][314]LogEditorTransaction: Undo 要素の回転
+[2025.01.13-07.40.25:682][340]Cmd: TRANSACTION UNDO
+[2025.01.13-07.40.25:682][340]LogEditorTransaction: Undo 要素をクリックしています
+[2025.01.13-07.40.26:420][396]Cmd: TRANSACTION UNDO
+[2025.01.13-07.40.26:421][396]LogEditorTransaction: Undo 要素をクリックしています
+[2025.01.13-07.40.26:810][409]Cmd: TRANSACTION UNDO
+[2025.01.13-07.40.26:811][409]LogEditorTransaction: Undo 要素をクリックしています
+[2025.01.13-07.40.27:168][427]Cmd: TRANSACTION UNDO
+[2025.01.13-07.40.27:168][427]LogEditorTransaction: Undo 要素をクリックしています
+[2025.01.13-07.41.02:167][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-07.41.02:222][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.13-07.41.02:234][ 35]LogSavePackage: Moving output files for package: /Game/MyContents/Maps/DebugMap/egurimap
+[2025.01.13-07.41.02:234][ 35]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimap497E4C084BCFE4EFB99EDBA6672DBB44.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap'
+[2025.01.13-07.41.02:242][ 35]LogFileHelpers: Saving map 'egurimap' took 0.047
+[2025.01.13-07.41.02:249][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 372 ms)
+[2025.01.13-07.41.02:252][ 35]AssetCheck: New page: アセット保存：egurimap
+[2025.01.13-07.41.02:252][ 35]LogContentValidation: Display: /Script/Engine.World /Game/MyContents/Maps/DebugMap/egurimap.egurimap を検証しています
+[2025.01.13-07.41.05:101][163]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.05:101][163]LogEditorTransaction: Undo 現在の時間にキーを追加
+[2025.01.13-07.41.12:158][442]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.12:158][442]LogEditorTransaction: Undo 要素の回転
+[2025.01.13-07.41.19:183][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-07.41.19:239][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.13-07.41.19:251][725]LogSavePackage: Moving output files for package: /Game/MyContents/Maps/DebugMap/egurimap
+[2025.01.13-07.41.19:251][725]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimap5AE5116A4DDFCC279919519F7F8D0317.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap'
+[2025.01.13-07.41.19:259][725]LogFileHelpers: Saving map 'egurimap' took 0.048
+[2025.01.13-07.41.19:269][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 458 ms)
+[2025.01.13-07.41.19:272][725]AssetCheck: New page: アセット保存：egurimap
+[2025.01.13-07.41.19:272][725]LogContentValidation: Display: /Script/Engine.World /Game/MyContents/Maps/DebugMap/egurimap.egurimap を検証しています
+[2025.01.13-07.41.22:633][881]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.22:633][881]LogEditorTransaction: Undo 要素をクリックしています
+[2025.01.13-07.41.23:248][892]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.23:248][892]LogEditorTransaction: Undo 要素の回転
+[2025.01.13-07.41.29:067][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-07.41.29:125][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.13-07.41.29:136][107]LogSavePackage: Moving output files for package: /Game/MyContents/Maps/DebugMap/egurimap
+[2025.01.13-07.41.29:136][107]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/egurimap2AF3A3074B64A20A03A8F695B94F6EF2.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/Maps/DebugMap/egurimap.umap'
+[2025.01.13-07.41.29:144][107]LogFileHelpers: Saving map 'egurimap' took 0.047
+[2025.01.13-07.41.29:152][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 543 ms)
+[2025.01.13-07.41.29:155][107]AssetCheck: New page: アセット保存：egurimap
+[2025.01.13-07.41.29:155][107]LogContentValidation: Display: /Script/Engine.World /Game/MyContents/Maps/DebugMap/egurimap.egurimap を検証しています
+[2025.01.13-07.41.29:657][130]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.29:657][130]LogEditorTransaction: Undo 要素をクリックしています
+[2025.01.13-07.41.30:416][152]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.30:416][152]LogEditorTransaction: Undo キーを削除
+[2025.01.13-07.41.31:569][198]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.31:569][198]LogEditorTransaction: Undo キーを貼り付け
+[2025.01.13-07.41.31:937][211]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.31:937][211]LogEditorTransaction: Undo 現在の時間にキーを追加
+[2025.01.13-07.41.32:284][222]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.32:284][222]LogEditorTransaction: Undo アクタ/コンポーネントを選択
+[2025.01.13-07.41.32:494][224]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.32:494][224]LogEditorTransaction: Undo キーを貼り付け
+[2025.01.13-07.41.32:759][232]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.32:759][232]LogEditorTransaction: Undo 現在の時間にキーを追加
+[2025.01.13-07.41.35:466][351]Cmd: TRANSACTION UNDO
+[2025.01.13-07.41.35:466][351]LogEditorTransaction: Undo 要素の回転
+[2025.01.13-07.41.57:718][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-07.41.57:746][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContents/LevelSequences/4Move" FILE="../../../../../../Sotsusei/YukeProject/Content/MyContents/LevelSequences/4Move.uasset" SILENT=true
+[2025.01.13-07.41.57:751][644]LogSavePackage: Moving output files for package: /Game/MyContents/LevelSequences/4Move
+[2025.01.13-07.41.57:752][644]LogSavePackage: Moving '../../../../../../Sotsusei/YukeProject/Saved/4MoveF1C36674424944E71807EC95F2214E9B.tmp' to '../../../../../../Sotsusei/YukeProject/Content/MyContents/LevelSequences/4Move.uasset'
+[2025.01.13-07.41.57:760][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 584 ms)
+[2025.01.13-07.41.57:762][644]AssetCheck: New page: アセット保存：4Move
+[2025.01.13-07.41.57:762][644]LogContentValidation: Display: /Script/LevelSequence.LevelSequence /Game/MyContents/LevelSequences/4Move.4Move を検証しています
+[2025.01.13-07.41.57:898][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3313.117920
+[2025.01.13-07.41.58:134][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-07.41.58:134][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3313.346680, Update Interval: 345.744812
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.11:129][399]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Sotsusei'
+[2025.01.13-07.42.26:116][399]LogSlate: Window 'ファイルをサブミット' being destroyed
+[2025.01.13-07.42.26:654][399]LogSourceControl: commit successful: [eguriguri b071ef1] アニメーション更新ver2
+[2025.01.13-07.42.26:768][399]SourceControl: [eguriguri b071ef1] アニメーション更新ver2
+[2025.01.13-07.42.26:768][399]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2025.01.13-07.42.26:784][399]SourceControl: [eguriguri b071ef1] アニメーション更新ver2 をコミットしました。
+[2025.01.13-07.42.35:545][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.13-07.42.35:549][811]LogStall: Shutdown...
+[2025.01.13-07.42.35:554][811]LogStall: Shutdown complete.
+[2025.01.13-07.42.35:629][811]LogSlate: Window 'コンテンツブラウザ' being destroyed
+[2025.01.13-07.42.35:638][811]LogSlate: Window 'YukeProject - Unreal Editor' being destroyed
+[2025.01.13-07.42.35:640][811]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Google 日本語入力 (TSF IME).
+[2025.01.13-07.42.35:690][812]Cmd: QUIT_EDITOR
+[2025.01.13-07.42.35:690][812]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.13-07.42.35:699][812]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.13-07.42.35:699][812]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.13-07.42.35:699][812]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.13-07.42.35:700][812]LogWorld: UWorld::CleanupWorld for egurimap, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.35:700][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-07.42.35:706][812]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.13-07.42.36:110][812]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.13-07.42.36:110][812]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.13-07.42.36:110][812]LogAudio: Display: Audio Device unregistered from world 'egurimap'.
+[2025.01.13-07.42.36:110][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.01.13-07.42.36:110][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.13-07.42.36:113][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.13-07.42.36:120][812]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.13-07.42.36:131][812]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.13-07.42.36:131][812]LogExit: Preparing to exit.
+[2025.01.13-07.42.36:143][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.01.13-07.42.36:929][812]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:930][812]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:930][812]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:930][812]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:930][812]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:930][812]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:930][812]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:930][812]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:930][812]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:931][812]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:931][812]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:931][812]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:931][812]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-07.42.36:990][812]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.13-07.42.37:003][812]LogExit: Editor shut down
+[2025.01.13-07.42.37:005][812]LogExit: Transaction tracking system shut down
+[2025.01.13-07.42.37:092][812]LogExit: Object subsystem successfully closed.
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: ================================================
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Total job queries 1,342, among them cache hits 1,194 (88.97%)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: RAM used: 81.75 KiB of 1.60 GiB budget. Usage: 0.00%
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Job execution time: average 5.60 s, max 8.57 s
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Job life time (pending + execution): average 5.66 s, max 8.62
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Shader code size: average 33.89 KiB, min 29.711 KiB, max 35.891 KiB
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.62 s
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Average processing rate: 0.46 jobs/sec
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Total thread time: 5.623 s
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Total thread preprocess time: 0.371 s
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Percentage time preprocessing: 6.60%
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Effective parallelization: 0.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.37 sec, max 2.37 sec, min 2.37 sec)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 2.04 sec, max 2.04 sec, min 2.04 sec)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 42.06% of total time (compiled    1 times, average 2.37 sec, max 2.37 sec, min 2.37 sec)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display:                                                 FLumenCardVS - 36.30% of total time (compiled    1 times, average 2.04 sec, max 2.04 sec, min 2.04 sec)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.30% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.34% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.01.13-07.42.37:099][812]LogShaderCompilers: Display: ================================================
+[2025.01.13-07.42.37:145][812]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.13-07.42.37:159][812]LogVirtualization: UE::Virtualization was shutdown
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1064)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module Voice (1062)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1060)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1058)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module NewLevelDialog (1056)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1054)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1052)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module SceneOutliner (1050)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module StatusBar (1048)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1046)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module AddContentDialog (1044)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1043)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module StatsViewer (1038)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1036)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module AutomationWorker (1034)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1032)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1030)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module WebMMedia (1028)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module CharacterAI (1026)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1024)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1022)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1020)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1018)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1016)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1014)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1012)
+[2025.01.13-07.42.37:198][812]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1011)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1008)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (1006)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (1004)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (1002)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module PlanarCut (1000)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module FractureEngine (998)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (996)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module WaveTableEditor (994)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (992)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module RigVMEditor (990)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module GooglePADEditor (988)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (986)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (984)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (982)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (980)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (978)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module IKRigEditor (976)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module ControlRigEditor (974)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (972)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module TextureAlignMode (970)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module BspMode (968)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module GeometryMode (966)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module SmartSnapping (964)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module SessionServices (962)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module MeshPaint (960)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (958)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module PlacementMode (957)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module FoliageEdit (954)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module LandscapeEditor (952)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (950)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module ActorPickerMode (948)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module ViewportSnapping (946)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module EditorWidgets (944)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module ViewportInteraction (942)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module ClothPainter (940)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (939)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module WidgetRegistration (936)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module LogVisualizer (934)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (932)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (930)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (929)
+[2025.01.13-07.42.37:200][812]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (927)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (924)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (922)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (920)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (918)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (916)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (914)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module AnimationSettings (912)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (910)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module CSVtoSVG (908)
+[2025.01.13-07.42.38:042][812]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (906)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module EditorConfig (904)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module EditorFramework (902)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (900)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module TraceInsights (898)
+[2025.01.13-07.42.38:043][812]MemoryProfiler: Shutdown
+[2025.01.13-07.42.38:043][812]NetworkingProfiler: Shutdown
+[2025.01.13-07.42.38:043][812]LoadingProfiler: Shutdown
+[2025.01.13-07.42.38:043][812]TimingProfiler: Shutdown
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module TraceServices (897)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module TraceAnalysis (896)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (892)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (891)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module InputBindingEditor (888)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module MergeActors (886)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (884)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module LocalizationService (883)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module HardwareTargeting (880)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (878)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module UndoHistory (876)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module XmlParser (874)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module Blutility (872)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (870)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (869)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (866)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (865)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module SettingsEditor (862)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module ProjectLauncher (860)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module SessionFrontend (858)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module ProfilerClient (856)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module DeviceManager (854)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module AutomationController (852)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module AutomationWindow (850)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module Layers (848)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (846)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module DetailCustomizations (844)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module PackagesDialog (842)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (840)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module Persona (838)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (837)
+[2025.01.13-07.42.38:043][812]LogModuleManager: Shutting down and abandoning module Kismet (834)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module KismetWidgets (833)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module GraphEditor (830)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module StructViewer (828)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module ClassViewer (826)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (824)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (822)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module SourceControlWindows (820)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module OutputLog (818)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module Documentation (816)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (814)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (812)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module MovieScene (810)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (808)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (806)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (804)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module AudioMixer (803)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module AudioMixerCore (802)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module LauncherPlatform (798)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module AnalyticsET (796)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module PortalServices (794)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module PortalRpc (792)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module MessagingRpc (790)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module AIModule (788)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module GameplayDebugger (787)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module AITestSuite (785)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module NavigationSystem (783)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (780)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (778)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module TypedElementFramework (776)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (774)
+[2025.01.13-07.42.38:045][812]LogModuleManager: Shutting down and abandoning module ProfilerService (772)
+[2025.01.13-07.42.38:228][812]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (770)
+[2025.01.13-07.42.38:228][812]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (768)
+[2025.01.13-07.42.38:228][812]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (766)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (764)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module TakesCore (762)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (760)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module Fab (758)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module MegascansPlugin (756)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module Bridge (754)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (752)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (750)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module CollectionManager (749)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (746)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (744)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module LightMixer (742)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (740)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (738)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module InterchangeTests (736)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (734)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module MediaPlate (732)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ImgMedia (730)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module MediaCompositing (728)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (726)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (724)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (722)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (720)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (718)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (716)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (714)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (712)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (710)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (708)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (706)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (704)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (702)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (700)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (698)
+[2025.01.13-07.42.38:229][812]LogOpenImageDenoise: OIDN shutting down
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module MeshLODToolset (696)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (694)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module LocalizableMessage (692)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (690)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (688)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (687)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (685)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (682)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module DataflowNodes (680)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (678)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module DataflowEditor (676)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (674)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (672)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ChaosNiagara (670)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (668)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module FractureEditor (666)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module BackChannel (664)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (662)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module AutomationUtils (660)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module VariantManager (658)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (657)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (654)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (650)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (648)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module UObjectPlugin (646)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (644)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (642)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (640)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module PluginUtils (638)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module DumpGPUServices (636)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module GitSourceControl (634)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (632)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (630)
+[2025.01.13-07.42.38:229][812]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (628)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (626)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module TakeSequencer (624)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module TakeMovieScene (622)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (620)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (618)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InterchangeEditor (616)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (614)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (612)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (610)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InterchangeExport (608)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InterchangeMessages (606)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GLTFCore (604)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module SynthesisEditor (602)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (600)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ResonanceAudio (598)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (596)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (594)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (592)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ModelingOperators (590)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (588)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ModelingComponents (586)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GeometryFramework (585)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (582)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module MeshModelingTools (580)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (578)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InputDebugging (576)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (572)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (570)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (568)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module DynamicMesh (566)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (564)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (562)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module SequencerScripting (560)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AudioCapture (556)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (555)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (552)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module UVEditorTools (550)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module UVEditor (548)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (546)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AppleImageUtils (544)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AndroidPermission (542)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (540)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (538)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module TemplateSequence (536)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AlembicImporter (534)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AlembicLibrary (533)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GeometryCache (532)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (531)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ControlRigSpline (526)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (524)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (522)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (520)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module PluginBrowser (518)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (516)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (514)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module CryptoKeys (512)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (510)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (508)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (506)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (504)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (502)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (500)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module EditorDebugTools (498)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (496)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module ChangelistReview (494)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module CurveEditorTools (492)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (490)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (488)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module Paper2DEditor (486)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (484)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module TraceUtilities (482)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (480)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (478)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module InputEditor (476)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module YukeProject (474)
+[2025.01.13-07.42.38:230][812]LogModuleManager: Shutting down and abandoning module UdpMessaging (472)
+[2025.01.13-07.42.38:331][812]LogModuleManager: Shutting down and abandoning module TcpMessaging (470)
+[2025.01.13-07.42.38:431][812]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (468)
+[2025.01.13-07.42.38:431][812]LogModuleManager: Shutting down and abandoning module StructUtils (466)
+[2025.01.13-07.42.38:431][812]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (464)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module PBIK (462)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module FullBodyIK (460)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (458)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module TakeRecorder (457)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module ChaosCaching (454)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (452)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (450)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (448)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module AnimationSharing (446)
+[2025.01.13-07.42.38:473][812]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (444)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module Niagara (442)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module NiagaraEditor (441)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module NiagaraCore (438)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module GameplayCameras (436)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module InterchangePipelines (434)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module InterchangeImport (432)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (430)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module InterchangeNodes (428)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module Synthesis (426)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module SoundFields (424)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (422)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module SignificanceManager (420)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (418)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module RigVM (416)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (414)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (412)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (410)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module AnimationData (408)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module MetasoundEditor (406)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module AudioWidgets (405)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (404)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (400)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module MetasoundEngine (398)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module WaveTable (397)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (395)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (392)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (390)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (388)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (386)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (384)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (382)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (381)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (378)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module SignalProcessing (377)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module CableComponent (374)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (370)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module IKRig (368)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (366)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module ControlRig (364)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module Constraints (363)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module LevelSequence (361)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (358)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (356)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module FacialAnimation (354)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module DataValidation (352)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (350)
+[2025.01.13-07.42.38:474][812]LogModuleManager: Shutting down and abandoning module LevelEditor (349)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (348)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (346)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module MainFrame (344)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module HotReload (343)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module ContentBrowser (339)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module ToolMenus (338)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module ContentBrowserData (336)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module TreeMap (333)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module Paper2D (330)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (328)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module BlueprintGraph (327)
+[2025.01.13-07.42.38:477][812]LogModuleManager: Shutting down and abandoning module EnhancedInput (324)
+[2025.01.13-07.42.38:478][812]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (322)
+[2025.01.13-07.42.38:478][812]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2025.01.13-07.42.38:478][812]LogModuleManager: Shutting down and abandoning module AndroidFileServer (318)
+[2025.01.13-07.42.38:478][812]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (316)
+[2025.01.13-07.42.38:478][812]LogModuleManager: Shutting down and abandoning module PacketHandler (314)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (312)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module AnimGraph (310)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module TimeManagement (308)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module AnimationDataController (306)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (304)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (302)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module MediaAssets (300)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module Overlay (298)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module OverlayEditor (297)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module VREditor (294)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module StringTableEditor (292)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (290)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (288)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module FunctionalTesting (286)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (284)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (283)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (280)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module EditorStyle (272)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2025.01.13-07.42.38:479][812]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2025.01.13-07.42.38:480][812]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (264)
+[2025.01.13-07.42.38:480][812]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2025.01.13-07.42.38:480][812]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2025.01.13-07.42.38:480][812]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2025.01.13-07.42.38:480][812]LogModuleManager: Shutting down and abandoning module Messaging (256)
+[2025.01.13-07.42.38:480][812]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (254)
+[2025.01.13-07.42.38:480][812]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (252)
+[2025.01.13-07.42.38:480][812]LogModuleManager: Shutting down and abandoning module LiveCoding (250)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module Networking (248)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module Core (246)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module AssetDefinition (244)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module MovieSceneTools (242)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module CurveEditor (241)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module Sequencer (239)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module NaniteBuilder (232)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module MeshUtilities (230)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (229)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (228)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (227)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2025.01.13-07.42.38:489][812]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (210)
+[2025.01.13-07.42.38:500][812]LogModuleManager: Shutting down and abandoning module TelemetryUtils (207)
+[2025.01.13-07.42.38:500][812]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (204)
+[2025.01.13-07.42.38:500][812]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (202)
+[2025.01.13-07.42.38:500][812]LogModuleManager: Shutting down and abandoning module DerivedDataCache (200)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module TargetPlatform (198)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (197)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (193)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (191)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (189)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (187)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (185)
+[2025.01.13-07.42.38:502][812]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (183)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (181)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (179)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (177)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (175)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (173)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (171)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (169)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (167)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TextureFormat (165)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module ImageWrapper (164)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (162)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (160)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (158)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (156)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (154)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (152)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module TurnkeySupport (149)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module InputCore (146)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module Settings (144)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (142)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (140)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (139)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module Chaos (136)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module GeometryCore (135)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (132)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (131)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module AVEncoder (130)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module D3D12RHI (126)
+[2025.01.13-07.42.38:503][812]LogModuleManager: Shutting down and abandoning module WmfMedia (124)
+[2025.01.13-07.42.38:509][812]LogModuleManager: Shutting down and abandoning module Media (123)
+[2025.01.13-07.42.38:510][812]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (120)
+[2025.01.13-07.42.38:510][812]LogModuleManager: Shutting down and abandoning module GLTFExporter (118)
+[2025.01.13-07.42.38:510][812]LogModuleManager: Shutting down and abandoning module ChaosCloth (116)
+[2025.01.13-07.42.38:510][812]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (114)
+[2025.01.13-07.42.38:510][812]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (112)
+[2025.01.13-07.42.38:510][812]LogModuleManager: Shutting down and abandoning module VariantManagerContent (110)
+[2025.01.13-07.42.38:510][812]LogModuleManager: Shutting down and abandoning module DatasmithContent (108)
+[2025.01.13-07.42.38:510][812]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (106)
+[2025.01.13-07.42.38:511][812]LogModuleManager: Shutting down and abandoning module XMPP (101)
+[2025.01.13-07.42.38:511][812]LogModuleManager: Shutting down and abandoning module WebSockets (100)
+[2025.01.13-07.42.38:533][812]LogModuleManager: Shutting down and abandoning module HTTP (97)
+[2025.01.13-07.42.38:533][812]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.13-07.42.38:533][812]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAED82335-4DF3-09B2-632C-AA926E5C4BFE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=76b1ff0b431911cefce75290078faed5%7Cbd129992892d4772b578d910534c0849%7C61840953-b433-4338-b939-7d8323a7d4a9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.01.13-07.42.38:556][812]LogModuleManager: Shutting down and abandoning module SSL (96)
+[2025.01.13-07.42.38:557][812]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (92)
+[2025.01.13-07.42.38:557][812]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (90)
+[2025.01.13-07.42.38:557][812]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (88)
+[2025.01.13-07.42.38:557][812]LogModuleManager: Shutting down and abandoning module EOSShared (86)
+[2025.01.13-07.42.39:602][812]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (84)
+[2025.01.13-07.42.39:602][812]RenderDocPlugin: plugin has been unloaded.
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module PixWinPlugin (82)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (80)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module NiagaraShader (78)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (76)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module ChunkDownloader (72)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module ACLPlugin (68)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2025.01.13-07.42.39:602][812]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.01.13-07.42.39:603][812]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.01.13-07.42.39:604][812]LogPakFile: Destroying PakPlatformFile
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.01.13-07.42.39:604][812]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.01.13-07.42.39:772][812]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.13-07.42.39:821][812]LogExit: Exiting.
+[2025.01.13-07.42.39:834][812]Log file closed, 01/13/25 16:42:39
