@@ -1,11 +1,11 @@
-"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Source\YukeProject\YukeProject.cpp"
-/FI"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\Definitions.YukeProject.h"
-/Yu"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.cpp.obj"
-/sourceDependencies "C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.cpp.dep.json"
-@"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.Shared.rsp"
+"C:\Sotsusei\YukeProject\Source\YukeProject\YukeProject.cpp"
+/FI"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\Definitions.YukeProject.h"
+/Yu"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.cpp.obj"
+/sourceDependencies "C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.cpp.dep.json"
+@"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-YukeProject.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.cpp.obj"
-"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\Default.rc2.res"
-/OUT:"C:\Users\S22-14\Documents\yuke\Project\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\UnrealEditor-YukeProject.lib"
+"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\YukeProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\YukeProject.cpp.obj"
+"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\Default.rc2.res"
+/OUT:"C:\Sotsusei\YukeProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\YukeProject\UnrealEditor-YukeProject.lib"
