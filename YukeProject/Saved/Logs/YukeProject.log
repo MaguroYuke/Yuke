@@ -1101,3 +1101,4 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.02.16-16.02.51:572][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
 [2025.02.16-16.02.51:618][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2025.02.16-16.05.07:837][  0]LogDerivedDataCache: C:/Users/A22045/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.278 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10768 files in 12129 folders with total size 494 MiB.
+[2025.02.16-17.05.07:868][  0]LogDerivedDataCache: C:/Users/A22045/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.308 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10768 files in 12129 folders with total size 494 MiB.
