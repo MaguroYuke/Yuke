@@ -96,12 +96,6 @@
 		{
 			"ShaderMapHash": "1323A416A7FD67AC95CDDC6E36D4BD08F8CD9238",
 			"Assets": [
-				"/Game/FBX/Souko/concrete",
-				"/Game/FBX/Souko/floor",
-				"/Game/FBX/Souko/gates",
-				"/Game/FBX/Souko/metal",
-				"/Game/FBX/Souko/roof",
-				"/Game/FBX/Souko/walls",
 				"/Game/MyContents/Textures/NewUI/PlayBlack/PlayBlack1_M",
 				"/Game/MyContents/Textures/NewUI/PlayBlack/SpeedUpBlack1_M",
 				"/Game/MyContents/Textures/NewUI/PlayBlack/StopBlack1_M"
@@ -505,7 +499,6 @@
 				"/Game/FBX/NewNanikore/mat7_002",
 				"/Game/FBX/NewNanikore/mat8_002",
 				"/Game/FBX/NewNanikore/mat9_002",
-				"/Game/FBX/Souko/glass",
 				"/Game/FBX/SuperClane/mat0_001",
 				"/Game/FBX/SuperClane/mat10_001",
 				"/Game/FBX/SuperClane/mat11_001",
@@ -866,6 +859,17 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7059B06661074F7443B44BAAE15206E622206D9B",
+			"Assets": [
+				"/Game/FBX/Souko/concrete",
+				"/Game/FBX/Souko/floor",
+				"/Game/FBX/Souko/gates",
+				"/Game/FBX/Souko/metal",
+				"/Game/FBX/Souko/roof",
+				"/Game/FBX/Souko/walls"
+			]
+		},
+		{
 			"ShaderMapHash": "F1649467B3C6052EEF75DDF6BBE9FFF9808BD8BB",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
@@ -1092,6 +1096,12 @@
 			"ShaderMapHash": "1484D9A2514F10AA073850EFD4B4AB5B40CBFA99",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "510D13A8A30E91EC3D8162D786A2947CA4C9FB72",
+			"Assets": [
+				"/Game/FBX/Souko/glass"
 			]
 		},
 		{
